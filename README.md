@@ -11,6 +11,8 @@ The development of medical specialist recommendation systems in a low-resource, 
 
 Data set statistics used in this experiment
 ![da1](https://github.com/user-attachments/assets/152912f7-7240-4b9b-988d-b46f08002e03)
+
 Preprocessing steps
 ![da2](https://github.com/user-attachments/assets/63bc934e-6be9-4cd7-8dd7-ffe3714bf3ff)
+
 Graphical representations of medical speicialist recomendation model
