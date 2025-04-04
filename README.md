@@ -15,4 +15,18 @@ Data set statistics used in this experiment
 Preprocessing steps
 ![da2](https://github.com/user-attachments/assets/63bc934e-6be9-4cd7-8dd7-ffe3714bf3ff)
 
-Graphical representations of medical speicialist recomendation model
+Graphical representations of medical specialist recommendation model
+![da3](https://github.com/user-attachments/assets/6a2f4b69-d4c6-4b35-ab8d-0a8722ed6a19)
+
+Accuracy the prediction model
+![da4](https://github.com/user-attachments/assets/8b36e361-b396-4423-a521-5b40c1ed8014)
+
+Developed UI interface for the recommendation model
+
+#Contributors
+1. Etana Fikadu (PhD candidate)
+2. Dr. Mrinal Das
+3. Dr. Teklu Urgessa
+4. Prof. Krishnaraj R.
+
+
