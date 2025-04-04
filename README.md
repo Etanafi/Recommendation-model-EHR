@@ -1,12 +1,11 @@
-# Recommendation-model
-# The development of medical specialist recommendations for a low-resource Afaan Oromo context:
-
+# Recommendation-model: The development of medical specialist recommendations for a low-resource Afaan Oromo context
+The complete code will be uploaded as soon as the paper is released online 
 ---
 
 The development of medical specialist recommendation systems in a low-resource, Afaan Oromo-speaking environment is both timely and crucial. In many rural and underserved areas where Afaan Oromo is widely spoken, access to specialized healthcare services is limited due to a shortage of trained professionals, infrastructure, and digital resources. By leveraging supervised machine learning techniques, it is possible to build intelligent systems that analyze patient symptoms and health records to recommend the most appropriate medical specialists. This approach can assist frontline healthcare workers in making informed referrals, improving diagnosis accuracy, and enhancing patient care. However, working in a low-resource linguistic context like Afaan Oromo presents challenges, such as the scarcity of labeled data, limited digital health records, and the need for culturally and linguistically adapted tools. Overcoming these challenges involves creating or curating relevant datasets, applying natural language processing techniques for Afaan Oromo, and ensuring the models are interpretable and efficient for use in real-world clinical settings. Ultimately, such systems aim to bridge the gap in specialist care and support equitable healthcare delivery for underserved populations.
 
 ---
-The complete code will be uploaded as soon as the paper is released online 
+
 
 ![da](https://github.com/user-attachments/assets/794cd13c-8804-4cb2-b925-4cb936d39c35)
 
